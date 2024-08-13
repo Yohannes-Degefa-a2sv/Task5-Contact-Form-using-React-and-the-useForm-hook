@@ -19,3 +19,11 @@ By leveraging the useForm hook, this project showcases efficient state managemen
 
 # if everything is valid, you will see no error message and you can submit successfully 
 ![Screenshot from 2024-08-11 12-29-54](https://github.com/user-attachments/assets/e4d56302-feaf-46b2-b65a-59360a893d89)
+
+
+To run this code on your local machine
+Step1: Clone this repository
+
+Step2: run 'npm install' or 'npm i' in the directory where you cloned this repo
+
+Step3: run 'npm start'
